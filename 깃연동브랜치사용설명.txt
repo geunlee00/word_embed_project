@@ -26,3 +26,5 @@ git branch
 
 main 브렌치로 push
 git push -u origin main
+=> 최초 push할 경우, 로그인 팝업 > 로그인 후 마스터 관리자 인증화면 > 탭 닫기
+# 깃허브 브라우저에서 새로고침해서 업로드 확인
