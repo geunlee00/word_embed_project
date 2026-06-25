@@ -24,3 +24,5 @@ git branch -M main
 git branch
 *main 확인
 
+main 브렌치로 push
+git push -u origin main
